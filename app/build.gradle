@@ -6,7 +6,9 @@ android {
     namespace 'com.flip.app'
     compileSdk 35
 
-    defaultConfig {
+ dependencies {
+    implementation 'androidx.appcompat:appcompat:1.7.0'
+}   defaultConfig {
         applicationId 'com.flip.app'
         minSdk 23
         targetSdk 35
