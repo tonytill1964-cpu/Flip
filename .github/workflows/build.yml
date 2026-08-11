@@ -1,4 +1,4 @@
-name: Build Flip APK
+name: Build.Yml
 
 on:
   workflow_dispatch:
