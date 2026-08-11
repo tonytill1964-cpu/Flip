@@ -28,4 +28,4 @@ jobs:
           name: Flip-APK
           path: app/build/outputs/apk/debug/app-debug.apk
 Filename: .github/workflows/build.yml
-Paste the code into the big window, then commit it.
+Paste
