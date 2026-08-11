@@ -1,4 +1,4 @@
-name: Build Flip APK
+1name: Build Flip APK
 on:
   workflow_dispatch:
 jobs:
